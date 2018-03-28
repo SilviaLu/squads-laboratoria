@@ -3,12 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "dialog-polyfill": "^0.4.9",
-    "firebase": "^4.12.0",
-    "materialize-css": "^1.0.0-beta",
-=======
->>>>>>> 6195d725e4d5e287b672dd836c4ef5d23fb511c2
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
